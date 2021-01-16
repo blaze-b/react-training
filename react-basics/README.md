@@ -72,16 +72,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-
-
-### React Hooks ###
-
-- Mainly 2 methods are there:
-  - useState();
-  - useEffect():
-- Why had to use components for following reasons:
-  - To keep data in state
-  - To use lifecycle methods
-  - To pass props from classes to functional components
-- However with react hooks, we can do all this without writing class components
