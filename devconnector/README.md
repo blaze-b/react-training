@@ -9,3 +9,8 @@
 - Create the file `server.js` and run the command `node server` and test the application on the server `http://localhost:5000`
 - Add the entries in the scripts tag in the package.json file and run the command `npm start`
 - For enabling the nodemon then run the command `npm run server` and the changes done will be automatically detected
+
+### Install gravatar for the Avatar Installation setup ###
+
+- [URL](https://github.com/emerleite/node-gravatar)
+- Run the command `npm install gravatar`
