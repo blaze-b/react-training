@@ -1,2 +1,3 @@
-# react-training
-Project to learn to code in react
+# React-Project-Training
+
+- Creating project to learn and code in react
