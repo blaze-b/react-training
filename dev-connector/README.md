@@ -10,7 +10,7 @@
 - Add the entries in the scripts tag in the package.json file and run the command `npm start`
 - For enabling the nodemon then run the command `npm run server` and the changes done will be automatically detected
 
-### Install gravatar for the Avatar Installation setup ###
+### Reference URL's ###
 
-- [URL](https://github.com/emerleite/node-gravatar)
-- Run the command `npm install gravatar`
+- [GRAVATOR GitHub URL](https://github.com/emerleite/node-gravatar) Run the command `npm install gravatar`
+- [PASSWORD-JWT Token Generation Api](https://github.com/mikenicholson/passport-jwt)
