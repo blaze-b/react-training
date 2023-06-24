@@ -1,17 +1,15 @@
-# Getting Started with Create React App
+# [Create React App](https://github.com/facebook/create-react-app).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## React Hooks
 
-### React Hooks ###
-
-- Mainly 2 methods are there:
-  - useState();
-  - useEffect():
-- Why had to use components for following reasons:
-  - To keep data in state
-  - To use lifecycle methods
-  - To pass props from classes to functional components
-- However with react hooks, we can do all this without writing class components
+  - Mainly 2 methods are there:
+    - useState();
+    - useEffect():
+  - Why had to use components for following reasons:
+    - To keep data in state
+    - To use lifecycle methods
+    - To pass props from classes to functional components
+  - However with react hooks, we can do all this without writing class components
 
 ## Available Scripts
 
