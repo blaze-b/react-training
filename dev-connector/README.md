@@ -18,6 +18,6 @@
 
   - [GRAVATOR GitHub URL](https://github.com/emerleite/node-gravatar) 
   
-       Run the command `npm install gravatar`
+    - Run the command `npm install gravatar`
   
   - [PASSWORD-JWT Token Generation Api](https://github.com/mikenicholson/passport-jwt)
