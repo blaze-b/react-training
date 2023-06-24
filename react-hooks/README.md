@@ -3,40 +3,48 @@
 ## React Hooks
 
   - Mainly 2 methods are there:
+
     - useState();
+
     - useEffect():
+
   - Why had to use components for following reasons:
+
     - To keep data in state
+
     - To use lifecycle methods
+
     - To pass props from classes to functional components
+
   - However with react hooks, we can do all this without writing class components
 
 ## Available Scripts
 
-In the project directory, you can run:
+  1. Run: `npm start`
 
-### `npm start`
+    1. Runs the app in the development mode. Open [localhost:3000](http://localhost:3000) to view it in the browser.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+    2. The page will reload if you make edits.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+    3. Can also see any lint errors in the console.
 
-### `npm test`
+  2. Rub:`npm test`
+  
+    1. Launches the test runner in the interactive watch mode.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+    2. See the section about [Running Tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+  3. Run: `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+    1. Builds the app for production to the `build` folder.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+    2. It correctly bundles React in production mode and optimizes the build for the best performance.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+    3. The build is minified and the filenames include the hashes.\
+    
+    4. Your app is ready to be deployed!
+
+    5. See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `npm run eject`
 
