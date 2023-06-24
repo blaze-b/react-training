@@ -2,7 +2,7 @@
 
 - Creating project to learn and code in react
 
-- Give the follwing user settings 
+- Give the following user settings 
 
     `"emmet.includeLanguages": {"javascript": "javascriptreact"},"emmet.syntaxProfiles": {"javascript":"jsx"},"terminal.integrated.shell.windows": "C:\\Program Files\\Git\\git-bash.exe", "editor.formatOnSave": true`
 
